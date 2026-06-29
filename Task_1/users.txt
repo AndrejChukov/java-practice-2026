@@ -1,0 +1,4 @@
+e04d8135-bf9c-4d39-a33f-536147fa146a|roman@gmail.com|qwerty008|Programmer
+70fabe4e-d1a6-426e-92ed-2ea6ae67e15c|sidikov@gmail.com|qwerty007|Programmer
+aaa534e4-1250-4613-afe3-58351ecb2b14|andrej@mail.ru|123|andrej
+47a0c485-44bc-4b68-a933-7c830b3cfd59|andrej@gmail.com|1234|andrey
