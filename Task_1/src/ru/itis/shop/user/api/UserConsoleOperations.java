@@ -48,7 +48,7 @@ public class UserConsoleOperations {
                 if (foundUser == null) {
                     System.out.println("Юзер с айди " + id + " был не найден");
                 } else {
-                    System.out.println("Найденный пользователь: " + foundUser.getProfileDescription());
+                    System.out.println("Найденный пользователь: " + foundUser.getEmail());
                 }
             }
             break;
